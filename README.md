@@ -8,7 +8,7 @@ Welcome to **WebPortfolio**, a personal portfolio website showcasing my **skills
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-WebPortfolio-blue?style=for-the-badge&logo=github)](https://RissMorisson.github.io/WebPortofolio/)
 
-[![GitHub Stars](https://img.shields.io/github/stars/RissMorisson/WebPortfolio?style=social)](https://github.com/RissMorisson/WebPortfolio/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/RissMorisson/WebPortofolio?style=social)](https://github.com/RissMorisson/WebPortofolio/stargazers)
 
 ---
 
