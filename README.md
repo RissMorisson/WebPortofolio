@@ -1,10 +1,10 @@
 # 🌐 WebPortfolio
 
-Selamat datang di **WebPortfolio**, sebuah website portofolio pribadi yang menampilkan **skill**, **pengalaman**, **projek**, **sertifikat**, dan **informasi kontak** saya sebagai seorang Tech, AI & Digital Enthusiast yang berbasis di **Bekasi, Indonesia**. Dibangun menggunakan teknologi web modern, portofolio ini mencerminkan perjalanan saya di bidang **pengembangan web**, **integrasi AI**, dan **digital marketing**.
+Welcome to **WebPortfolio**, a personal portfolio website showcasing my **skills**, **experiences**, **projects**, **certifications**, and **contact information** as a Tech, AI & Digital Enthusiast based in **Bekasi, Indonesia**. Built with modern web technologies, this portfolio reflects my journey in **web development**, **AI integration**, and **digital marketing**.
 
 ---
 
-## 🚀 Demo Langsung
+## 🚀 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-WebPortfolio-blue?style=for-the-badge&logo=github)](https://RissMorisson.github.io/WebPortofolio/)
 
@@ -12,108 +12,110 @@ Selamat datang di **WebPortfolio**, sebuah website portofolio pribadi yang menam
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Key Features
 
-- **Desain Responsif**: Tampil optimal di perangkat desktop dan mobile.
-- **Navigasi Interaktif**: Akses mudah ke bagian Home, About, Skills, Experience, Portfolio, Certificates, dan Contact.
-- **Galeri Project**: Menampilkan projek-projek unggulan beserta stack teknologi yang digunakan.
-- **Filter Sertifikat**: Penyaringan sertifikat berdasarkan kategori (misal: English, Web Development).
-- **Kontak Mudah**: Tersedia email dan tautan ke media sosial.
+- **Responsive Design** – Optimized for desktop and mobile devices.
+- **Interactive Navigation** – Seamless browsing across Home, About, Skills, Experience, Portfolio, Certificates, and Contact.
+- **Project Gallery** – Displays key projects with their associated tech stacks.
+- **Certificate Filtering** – Filter certifications by categories such as *English* and *Web Development*.
+- **Easy Contact** – Includes email and social links for quick communication.
 
 ---
 
-## 📸 Cuplikan Tampilan
+## 📸 UI Previews
 
 ### 🏠 Home Page  
-Menampilkan foto profil, tagline, dan tombol “Explore My Work”.
+Showcases profile picture, tagline, and a “Explore My Work” button.
 
-### 👤 Tentang Saya  
-Berisi latar belakang, pendidikan, dan akun media sosial yang saya kelola.
+### 👤 About Me  
+Includes my background, education, and managed social accounts.
 
-### 🧠 Skill  
-Menampilkan daftar **soft skill**, **hard skill**, dan **kemampuan bahasa** saya.
+### 🧠 Skills  
+A categorized list of **soft skills**, **hard skills**, and **language proficiencies**.
 
-### 💼 Pengalaman  
-Mencakup peran saya sebagai **Developer** dan praktisi **Digital Marketing**.
+### 💼 Experience  
+Details my roles as a **Developer** and **Digital Marketing** practitioner.
 
 ### 📁 Portfolio  
-Proyek-proyek seperti:  
+Highlighted projects:
 - Instagram Follower Comparator  
 - AI ChatBot  
 - Mobile Game  
 - AI Assistant  
 
-### 🎓 Sertifikat  
-Sertifikat dari berbagai bidang dengan indikator progres.
+### 🎓 Certificates  
+Features multiple certificates with a category-based filtering system.
 
-### 📬 Kontak  
-Berisi email, LinkedIn, dan GitHub untuk koneksi langsung.
-
----
-
-## 🚀 Demo Langsung
-
-👉 [Lihat Versi Live WebPortfolio](#) *(https://rissmorisson.github.io/WebPortofolio/)*
+### 📬 Contact  
+Provides email, LinkedIn, and GitHub links for direct connection.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer        | Teknologi                                     |
-|--------------|-----------------------------------------------|
-| 🎨 Frontend   | HTML, CSS, JavaScript                         |
-| 🌍 Hosting    | GitHub Pages / netlify                                  |
+| Layer        | Technologies                |
+|--------------|-----------------------------|
+| 🎨 Frontend   | HTML, CSS, JavaScript       |
+| 🌍 Hosting    | GitHub Pages / Netlify      |
 
 ---
 
-## 📖 Cara Menjalankan
+## 📖 How to Use
 
-### 1. Jelajahi Website
-- Gunakan menu navigasi di atas untuk berpindah antar bagian.
-- Klik tombol **"Explore My Work"** di halaman awal untuk langsung ke bagian Portfolio.
+### 1. Explore the Website
+- Navigate between sections using the menu.
+- Click the **"Explore My Work"** button to jump directly to the Portfolio section.
 
-### 2. Lihat Proyek
-- Klik kartu proyek di bagian Portfolio untuk info detailnya.
+### 2. Browse Projects
+- Click on a project card to view more detailed information.
 
-### 3. Filter Sertifikat
-- Gunakan tombol kategori seperti **English** atau **Web Development**.
+### 3. Filter Certifications
+- Use filter buttons like **English** or **Web Development**.
 
-### 4. Hubungi Saya
-- Kunjungi bagian **Kontak** untuk email atau tautan ke media sosial.
+### 4. Contact Me
+- Go to the **Contact** section for my email or social links.
 
 ---
 
-## 🖥️ Instalasi (Bagi Developer)
+## 🖥️ Local Installation (For Developers)
 
-Untuk menjalankan projek ini secara lokal:
+To run this project locally:
 
-``` bash
-git clone https://github.com/rissmorrisson/WebPortfolio.git
+```bash
+git clone https://github.com/RissMorisson/WebPortfolio.git
 cd WebPortfolio
 npm install
 npm start
+Open your browser and navigate to http://localhost:3000.
 ```
-Akses aplikasi di http://localhost:3000.
 
-🤝 Kontribusi
-Saya terbuka terhadap kontribusi!
-Silakan fork repo ini, buat branch baru, commit perubahanmu, lalu buka Pull Request.
+🤝 Contributing
+I'm open to contributions!
+Feel free to:
 
-⭐ Beri Bintang
-Kalau kamu suka atau terinspirasi oleh project ini, bantu beri bintang di GitHub ya! 🌟
-👉 Star WebPortfolio
+Fork the repository
 
-📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk detailnya.
+Create a new branch
 
-📬 Kontak
+Commit your changes
+
+Open a Pull Request
+
+⭐ Give It a Star
+If you like this project or find it useful, please consider giving it a ⭐ on GitHub!
+
+<p align="center"> <a href="https://github.com/RissMorisson/WebPortofolio/stargazers" target="_blank"> <img src="https://img.shields.io/github/stars/RissMorisson/WebPortofolio?style=social" alt="Star on GitHub"> </a> </p>
+📄 License
+This project is licensed under the MIT License.
+
+📬 Contact
 📧 Email: riskycahya034@gmail.com
 
-🌍 Lokasi: Bekasi, Indonesia
+🌍 Location: Bekasi, Indonesia
 
-🔗 LinkedIn https://linkedin.com/in/riskycahyanugraha
+🔗 [LinkedIn](https://linkedin.com/in/riskycahyanugraha)
 
-🔗 GitHub https://github.com/RissMorisson
+🔗 [GitHub](https://github.com/RissMorisson)
 
-Dibuat dengan ❤️ oleh Risky Cahya Nugraha
+Built with ❤️ by Risky Cahya Nugraha
 © 2025 Risky Cahya Nugraha. All rights reserved.
