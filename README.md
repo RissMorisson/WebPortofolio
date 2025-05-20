@@ -2,7 +2,7 @@
 
 Welcome to **WebPortfolio**, a personal portfolio website showcasing my **skills**, **experiences**, **projects**, **certifications**, and **contact information** as a Tech, AI & Digital Enthusiast based in **Bekasi, Indonesia**. Built with modern web technologies, this portfolio reflects my journey in **web development**, **AI integration**, and **digital marketing**.
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## 🚀 Live Demo
 
@@ -10,7 +10,7 @@ Welcome to **WebPortfolio**, a personal portfolio website showcasing my **skills
 
 [![GitHub Stars](https://img.shields.io/github/stars/RissMorisson/WebPortofolio?style=social)](https://github.com/RissMorisson/WebPortofolio/stargazers)
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## ✨ Key Features
 
@@ -20,7 +20,7 @@ Welcome to **WebPortfolio**, a personal portfolio website showcasing my **skills
 - **Certificate Filtering** – Filter certifications by categories such as *English* and *Web Development*.
 - **Easy Contact** – Includes email and social links for quick communication.
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## 📸 UI Previews
 
@@ -49,7 +49,7 @@ Features multiple certificates with a category-based filtering system.
 ### 📬 Contact  
 Provides email, LinkedIn, and GitHub links for direct connection.
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +58,7 @@ Provides email, LinkedIn, and GitHub links for direct connection.
 | 🎨 Frontend   | HTML, CSS, JavaScript       |
 | 🌍 Hosting    | GitHub Pages / Netlify      |
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## 📖 How to Use
 
@@ -75,7 +75,7 @@ Provides email, LinkedIn, and GitHub links for direct connection.
 ### 4. Contact Me
 - Go to the **Contact** section for my email or social links.
 
----
+<img height="100px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4aDhsMHF6dmI4b3pybWR2bWlhdDJ2dXI0bzBjanAxaDdtZzdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"  />
 
 ## 🖥️ Local Installation (For Developers)
 
