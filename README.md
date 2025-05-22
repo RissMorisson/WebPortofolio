@@ -117,5 +117,4 @@ This project is licensed under the MIT License.
 
 🔗 [GitHub](https://github.com/RissMorisson)
 
-Built with ❤️ by Risky Cahya Nugraha
-© 2025 Risky Cahya Nugraha. All rights reserved.
+<p align="center"> Built with ❤️ by <strong>Risky Cahya Nugraha</strong><br/> © 2025 <strong>Risky's Portfolio</strong> — All rights reserved. </p>
