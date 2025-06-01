@@ -110,8 +110,10 @@ If you like this project or find it useful, please consider giving it a ⭐ on G
 📄 License
 This project is licensed under the MIT License.
 
-📬 Contact
+## 📬 Contact
 📧 Email: riskycahya034@gmail.com
+
+📱 Instagram: <a href="https://www.instagram.com/riskyycn_/">@riskyycn_</a>
 
 🌍 Location: Bekasi, Indonesia
 
